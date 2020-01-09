@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactrmdb/static/css/main.6a178a13.chunk.css",
+    "main.js": "/reactrmdb/static/js/main.42925a87.chunk.js",
+    "main.js.map": "/reactrmdb/static/js/main.42925a87.chunk.js.map",
+    "runtime-main.js": "/reactrmdb/static/js/runtime-main.c1eaca46.js",
+    "runtime-main.js.map": "/reactrmdb/static/js/runtime-main.c1eaca46.js.map",
+    "static/js/2.70446411.chunk.js": "/reactrmdb/static/js/2.70446411.chunk.js",
+    "static/js/2.70446411.chunk.js.map": "/reactrmdb/static/js/2.70446411.chunk.js.map",
+    "index.html": "/reactrmdb/index.html",
+    "precache-manifest.04f1eefcb7139e327e3754f12de2ce3e.js": "/reactrmdb/precache-manifest.04f1eefcb7139e327e3754f12de2ce3e.js",
+    "service-worker.js": "/reactrmdb/service-worker.js",
+    "static/css/main.6a178a13.chunk.css.map": "/reactrmdb/static/css/main.6a178a13.chunk.css.map",
+    "static/js/2.70446411.chunk.js.LICENSE": "/reactrmdb/static/js/2.70446411.chunk.js.LICENSE",
+    "static/media/no_image.jpg": "/reactrmdb/static/media/no_image.31f5bb1d.jpg",
+    "static/media/reactMovie_logo.png": "/reactrmdb/static/media/reactMovie_logo.08494abf.png",
+    "static/media/tmdb_logo.svg": "/reactrmdb/static/media/tmdb_logo.30cd724b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1eaca46.js",
+    "static/js/2.70446411.chunk.js",
+    "static/css/main.6a178a13.chunk.css",
+    "static/js/main.42925a87.chunk.js"
+  ]
+}
