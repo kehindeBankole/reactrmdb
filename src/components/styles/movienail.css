@@ -1,0 +1,10 @@
+.movieimage img{
+    width : 250px;
+    height : 300px;
+    border-radius: 25px;
+    
+}
+.movieimage:hover{
+    opacity: 0.8;
+    cursor : pointer;
+}
